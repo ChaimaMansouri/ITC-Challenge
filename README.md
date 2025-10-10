@@ -1,6 +1,6 @@
 # 💡 InnovateHub
 
-> A smart and elegant platform created during the **ITC Challenge**, designed to help users discover company services and **book spaces, meeting rooms, or event halls** based on their needs.
+> Elegant platform created during the **ITC Challenge**, designed to help users discover company services and **book spaces, meeting rooms, or event halls** based on their needs.
 
 ---
 
